@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16b063a4fa61d2e4babb8fed2305b1ff, type: 3}
+  m_Name: BowlingBall
+  m_EditorClassIdentifier: 
+  _name: BOWLING
+  _skinSprite: {fileID: 21300000, guid: 825b2b7afa90bd74daf502c71cd6fef6, type: 3}
+  _isAchieved: 0
+  _isReached: 0
+  _price: 1500000
+  _requiredLevel: 0
+  _clickProfit: 170
+  _autoClickProfit: 20
+  _bowlingProfit: 0.5
+  _easeProfit: 0.4
+  _nIterations: 0

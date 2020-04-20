@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16b063a4fa61d2e4babb8fed2305b1ff, type: 3}
+  m_Name: Stick
+  m_EditorClassIdentifier: 
+  _name: WACKY TOBACKY
+  _skinSprite: {fileID: 21300000, guid: 60aa77fdd3237f346af352c59241cee7, type: 3}
+  _isAchieved: 1
+  _isReached: 0
+  _price: 7500
+  _requiredLevel: 0
+  _clickProfit: 11.999999
+  _autoClickProfit: 5.4999995
+  _bowlingProfit: 0.27
+  _easeProfit: 0.27000004
+  _nIterations: 1
